@@ -20,3 +20,15 @@ Here are the results for 2017 for the original program and then the refactored p
 [original stock analysis 2017](resources/VBA_module2_2017.png)  and
 [refactored stock analysis 2017](resources/VBA_Challenge_2017.png)
 
+## Summary
+Here are some benefits from refactoring code if your refactoring is done correctly and tested well
+* Simplified support and code updates. 
+* Save time and money in the future. 
+* Reduced complexity for easier understanding since later programmers might not understand tricky code 
+* Maintainability and scalability
+
+For code that has been in production for a while and was fully tested, refactoring it might
+* not be tested as thoroughly as the original code was
+* introduce new errors or complexity that weren't in the original code 
+* use new data structures or features that are later deprecated in later versions of the programming enviroment
+* be costly unless the existing code has become unstable, unusable or unsupported if it bridges to other code that changes versions

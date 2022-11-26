@@ -13,6 +13,10 @@ Finally after that program ran and gave him the desired results I though about p
 ## Results
 In Conclusion, I ran both the original stock analysis program and the new refactored program for both 2018 and 2017 to see if my refactored code ran faster. I noticed that yes, the refactoring did help. 
 Here are the results for 2018 for the original program and then the refactored program: 
-[original stock analysis 2018](resources/VBA_module2_ 2018.png)   and
-[refactored stock analysis 2018](resources/VBA_Challenge.png)
+[original stock analysis 2018](resources/VBA_module2_2018.png)  and
+[refactored stock analysis 2018](resources/VBA_Challenge_2018.png)
+
+Here are the results for 2017 for the original program and then the refactored program: 
+[original stock analysis 2017](resources/VBA_module2_2017.png)  and
+[refactored stock analysis 2017](resources/VBA_Challenge_2017.png)
 
